@@ -107,7 +107,7 @@ Submit your best unrestricted creations: Text to Image, Image Editing and Image 
 🥉 **3rd Place Image 2 Video**: 3,000 credits  
 
 ### How It Works
-1. Create unrestricted content on [httts://ko2bot.com/envision]
+1. Create unrestricted content on [https://ko2bot.com/envision]
 2. Submit at: https://ko2bot.com/competition
 3. Community votes on favorites
 4. Top 3 creators win big
